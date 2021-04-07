@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "554179381791",
+    "project_id": "scancompile",
+    "storage_bucket": "scancompile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554179381791:android:8832129e359bee0297632a",
+        "android_client_info": {
+          "package_name": "com.example.scan_compile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554179381791-4ul7ji0vb33ianqrrljr66c34nbb25ne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7d6v_Awc8cVcp2oC6dW3e2rifIb_lqeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554179381791-4ul7ji0vb33ianqrrljr66c34nbb25ne.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
